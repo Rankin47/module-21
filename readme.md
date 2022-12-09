@@ -20,3 +20,6 @@ Project is created with:
 ## Installation
 
 npm install
+
+<img width="545" alt="Screen Shot 2022-12-08 at 10 10 33 PM" src="https://user-images.githubusercontent.com/108376982/206615757-98fa94c7-532c-4daf-9b06-f9e98c246018.png">
+
